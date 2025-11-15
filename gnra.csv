@@ -1,0 +1,584 @@
+PDB id,Chain,GNRA,Description
+4JF2,A,True,PreQ1-II Riboswitch
+4K50,B,True,RNA (33-MER)
+7OAX,A,False,Chili RNA Aptamer
+2IL9,A,True,Ribosomal Binding Domain of the IRES RNA
+8GXB,B,False,NAD+ II riboswitch
+5DEA,C,False,sc1
+1U9S,A,True,RIBONUCLEASE P
+1KOG,O,False,Threonyl-tRNA synthetase mRNA
+4LCK,F,False,T-BOX RIBOSWITCH STEM I
+3NVK,K,False,RNA (5'-R(*GP*CP*CP*GP*UP*UP*GP*AP*AP*GP*CP*UP*CP*UP*GP*AP*CP*CP*GP*AP*AP*AP*GP*GP*CP*GP*UP*GP*AP*UP*GP*AP*GP*C)-3')
+5F5F,F,False,RNA (5'-R(P*UP*GP*AP*CP*UP*GP*CP*GP*UP*UP*UP*UP*AP*GP*GP*AP*GP*UP*UP*A)-3')
+1GAX,D,False,TRNA(VAL)
+7Z4O,VVV,False,RNA (5'-R(P*AP*GP*UP*AP*GP*UP*AP*AP*CP*AP*AP*G)-3')
+5MGA,B,False,RNA (40-MER)
+4LCK,B,False,tRNA-Gly
+4AOB,A,True,SAM-I RIBOSWITCH
+5M0I,E,True,"ASH1-E3 element, RNA (28-MER)"
+5F5F,B,False,RNA (5'-R(P*UP*GP*AP*CP*UP*GP*CP*GP*UP*UP*UP*UP*AP*GP*GP*AP*GP*UP*UP*A)-3')
+5AMQ,C,False,RNA
+3EGZ,B,False,Tetracycline aptamer and artificial riboswitch
+7JJU,B,False,Potato leafroll virus xrRNA
+4PDB,I,False,SELEX RNA aptamer
+1EC6,C,False,20-MER RNA HAIRPIN
+8C3A,4,False,5.8S
+1QU2,T,False,ISOLEUCYL-TRNA
+5T5A,A,False,DNA/RNA (71-MER)
+4QK9,A,True,C-di-AMP riboswitch
+5NDH,A,False,RNA (5'-R(*GP*(CBV)P*GP*GP*GP*GP*AP*CP*GP*AP*CP*CP*CP*CP*GP*C)-3')
+7OSM,ASIT,False,PHE tRNA
+8F5G,D,False,RNA
+4KR9,M,False,RNA (39-MER)
+4ZLD,B,False,RNA (5'-R(*UP*AP*AP*CP*UP*UP*CP*UP*GP*UP*GP*AP*AP*GP*UP*UP*G)-3')
+5B2P,B,True,Guide RNA
+2OIU,P,True,L1 Ribozyme RNA Ligase
+6DU5,B,False,hp6-RNA (25-MER)
+5FJ4,H,False,HMKT-7
+7Z4D,A,False,sgRNA
+6MJ0,B,True,RNA (101-MER)
+5DDP,A,True,RNA (61-MER)
+8H9D,G,False,RNA (5'-R(P*AP*AP*UP*UP*UP*CP*UP*AP*CP*UP*AP*AP*GP*UP*GP*UP*AP*GP*AP*UP*C)-3')
+5M0I,F,True,"ASH1-E3 element, RNA (28-MER)"
+6UFH,A,True,RNA (167-MER)
+6JQ5,B,True,RNA (82-MER)
+8D29,J,False,RNA (34-MER)
+3SUX,X,True,Riboswitch
+5FQ5,A,True,SGRNA
+5F5H,C,False,RNA (5'-R(P*CP*CP*AP*CP*AP*CP*CP*GP*UP*UP*CP*UP*AP*GP*GP*UP*GP*CP*UP*GP*G)-3')
+4ZNP,A,False,pfI Riboswitch
+3DIL,A,True,RNA (174-MER)
+6QN3,A,False,RNA (51-MER)
+5J7L,DA,True,23S rRNA
+3WQY,C,False,RNA (75-MER)
+5KPY,A,False,5-hydroxytryptophan RNA aptamer
+6TFF,A,True,Chains: A
+2NUE,C,False,46-MER
+2ANN,B,False,5'-R(*CP*GP*CP*GP*CP*GP*GP*AP*UP*CP*AP*GP*UP*CP*AP*CP*CP*CP*AP*AP*GP*CP*GP*CP*G)-3'
+8C3A,CM,True,18S
+2QUX,F,False,RNA (25-MER)
+3U4M,B,False,RNA (80-MER)
+3DH3,E,False,stem loop fragment of E. Coli 23S RNA
+5LM7,G,True,RNA (29-MER)
+5F9R,A,True,RNA (116-MER)
+3NPQ,A,True,S-ADENOSYLHOMOCYSTEINE RIBOSWITCH
+1ZCI,A,False,5'-R(*CP*(5BU)P*UP*GP*CP*UP*GP*AP*AP*GP*UP*GP*CP*AP*CP*AP*CP*AP*GP*CP*AP*AP*G)-3'
+4JRC,B,False,Distal Stem I region of the glyQS T box leader RNA
+8D29,F,False,RNA (34-MER)
+1I6U,C,False,16S RRNA FRAGMENT
+3MJA,B,False,Domain 3 of the cricket paralysis virus intergenic region IRES RNA
+4V83,CV,False,domain 3 of PSIC IGR IRES RNA
+3OIN,C,False,5'-R(*GP*GP*GP*CP*UP*UP*CP*AP*AP*CP*GP*CP*CP*C)-3'
+4WRT,V,False,Influenza virus polymerase vRNA promoter 5' end
+2DRA,B,False,tRNA (34-MER)
+4OQU,A,True,SAM-I/IV riboswitch
+8VMB,R,False,RNA (83-MER)
+8ID2,C,False,RNA (5'-R(*GP*GP*GP*GP*AP*CP*UP*GP*CP*GP*UP*UP*CP*GP*CP*GP*CP*UP*UP*UP*CP*CP*CP*C)-3')
+3IVK,M,False,class I ligase product
+8KAL,A,False,RNA (98-MER)
+4M6D,H,False,aptamer
+7WKP,B,True,3' stem loop crRNA
+2Y9H,N,False,5'-R(*UP*CP*CP*CP*CP*AP*CP*GP*CP*GP*UP*GP*UP*GP *GP*GP*DGP*AP*UP)-3'
+7PMQ,F,False,RNA (42-MER)
+6UFM,B,False,RNA (98-MER)
+3DH3,F,False,stem loop fragment of E. Coli 23S RNA
+2PJP,B,False,SECIS RNA
+5DE8,A,False,sc1
+4W90,C,True,riboswitch a pseudo-dimeric RNA
+7KVT,B,False,Squash RNA aptamer bound to DFHBI-1T with iridium (III) ions
+7A0S,Y,True,RNA (122-MER)
+6WPI,B,True,RNA (47-MER)
+6YFT,RR,False,RNA
+1F1T,A,False,MALACHITE GREEN APTAMER RNA
+7EL1,B,False,RNA (73-MER)
+1F27,A,False,RNA (5'-R(*AP*CP*CP*GP*UP*CP*AP*GP*AP*GP*GP*AP*CP*AP*CP*GP*GP*UP*U)-3')
+4PJO,1,False,U1 RNA variant (48-MER) with 4-helix junction replaced by kissing loop (HIV-1 (Mal) DIS) and shorter stem-loop 4.
+7ZO1,A,True,CD34 sgRNA
+5TBW,4,False,5.8S ribosomal RNA
+7R97,C,True,RNA (28-MER)
+5DDO,A,True,L-glutamine riboswitch (58-MER)
+7SZU,R,False,RNA aptamer
+6OL3,C,False,Adenovirus Virus-Associated (VA) RNA I apical and central domains
+3ICQ,E,False,RNA (62-MER)
+3W3S,B,True,selenocysteine tRNA
+6TQA,G,False,RNA (5'-R(P*GP*GP*UP*GP*CP*CP*UP*AP*AP*UP*AP*UP*UP*UP*AP*GP*GP*CP*AP*CP*(CCC))-3')
+5M0J,E,True,ASH1 E3 (28 nt-loop)
+6AZ4,A,True,RNA (32-MER)
+2QWY,C,False,SAM-II riboswitch
+5WWT,C,False,tRNA
+4LVW,A,True,THF riboswitch
+7EU9,B,False,RNA (43-MER)
+7QR0,A,True,TRAC sgRNA
+6PMO,B,False,tRNA-Gly
+1UN6,F,True,5S RIBOSOMAL RNA
+5VW1,C,True,sgRNA
+4YCO,D,False,tRNAphe
+2CZJ,H,False,tmRNA (63-MER)
+4KQY,A,True,YitJ S box/SAM-I riboswitch
+6CU1,A,True,YrlA effector-binding module
+7K98,C,False,tRNA(Phe)
+6KYV,G,False,RNA (5'-R(*GP*GP*UP*AP*GP*AP*CP*GP*CP*UP*UP*CP*GP*GP*CP*GP*UP*UP*UP*GP*CP*C)-3')
+2Y9H,J,False,5'-R(*UP*CP*CP*CP*CP*AP*CP*GP*CP*GP*UP*GP*UP*GP *GP*GP*DGP*AP*UP)-3'
+6WBR,B,False,RNA (94-MER)
+1HMH,A,False,HAMMERHEAD RIBOZYME-RNA STRAND
+2XLK,C,True,5'-R(*CP*UP*GP*CP*CP*GP*UP*AP*UP*AP*GP*GP*CP*A*DG*C)-3'
+3VJR,B,False,tRNA CCA-acceptor
+5HR6,C,False,tRNA Glu
+8XZL,A,False,RNA (53-MER)
+3LQX,B,True,SRP RNA
+5WTK,B,False,RNA (58-MER)
+1U6B,B,True,197-MER
+2AKE,B,False,transfer RNA-Trp
+5E08,N,False,RNA
+2IY5,T,False,TRNAPHE
+4OOG,D,False,34-mer RNA
+7JRS,A,False,RNA 3D nanocage
+5K7D,A,False,RNA 47-MER
+6DU4,B,False,hp1x-RNA (29-MER)
+7UQ6,B,True,RNA (86-MER)
+3RG5,B,True,tRNA(Sec)
+6XH2,D,False,TRANS-ACTIVATION RESPONSE ELEMENT
+7MSF,R,False,5'-R(*UP*CP*GP*CP*CP*AP*AP*CP*AP*GP*GP*CP*GP*G)-3'
+5IBB,1L,False,tRNAVal
+8VT5,A,False,menRNA
+4O26,E,False,Telomerase TR
+3MXH,R,True,c-di-GMP riboswitch
+5H9F,L,False,crRNA (61-MER)
+2Y9H,F,False,5'-R(*UP*CP*CP*CP*CP*AP*CP*GP*CP*GP*UP*GP*UP*GP *GP*GP*DGP*AP*UP)-3'
+8V1H,A,False,pre-mascRNA
+7U4A,A,True,RNA (70-MER)
+8C3A,3,True,5S
+1WZ2,D,False,tRNA
+3ADD,C,False,selenocysteine tRNA
+6YMC,A,True,RNA (26-MER)
+7D7V,A,False,17delU1A (58-MER)
+2XDB,G,False,TOXI
+7UZ0,A,True,AntiT-tRNA flip UCCA
+2AZX,D,False,72-MER
+6DVK,H,True,RNA (95-MER)
+6PRV,A,False,23S rRNA
+4V9Q,DV,False,tRNA
+1U63,D,False,49 NT FRAGMENT OF MRNA FOR L1
+1H4S,T,False,TRNAPRO(CGG)
+1MFQ,A,True,7S RNA of human SRP
+1KXK,A,True,ai5g group II Self-splicing intron
+6ZDU,C,False,"Chains: C,D"
+4ANG,R,False,5'-R(*CP*CP*AP*UP*AP*AP*GP*GP*AP*GP*CP*UP*AP*CP *CP*UP*AP*UP*GP*GP)-3'
+5ML7,B,False,23S ribosomal RNA
+4WJ4,B,False,76mer-tRNA
+5AH5,D,False,TRNA-LEU TAA ISOACCEPTOR
+7JNH,B,True,"Core double ENE RNA (Xtal construct) from Oryza sativa transposon,Core double ENE RNA (Xtal construct) from Oryza sativa transposon"
+5XWP,C,False,RNA (59-MER)
+7A0S,X,True,RNA (2732-MER)
+2ZZM,B,True,RNA (84-MER)
+3PDR,X,True,M-box Riboswitch RNA
+6UEY,C,False,RNA (50-MER)
+1U0B,A,False,cysteinyl tRNA
+6MSF,R,False,RNA (5'-R(*CP*CP*AP*CP*AP*GP*UP*CP*AP*CP*UP*GP*GP*G)-3')
+5DCV,D,True,RNA (47-MER)
+2UWM,D,False,5'-R(*GP*GP*CP*GP*UP*UP*GP*CP*CP*GP *GP*UP*CP*UP*GP*GP*CP*AP*AP*CP*GP*CP*C)-3'
+1OOA,C,False,RNA aptamer
+4ATO,G,False,TOXI
+8SP9,C,False,"tRNA scaffold,CVB3 Cloverleaf RNA"
+5LYS,B,False,7SK RNA
+7JJU,A,False,Potato leafroll virus xrRNA
+7LYF,A,False,RNA promoter stem-loop A fused with tRNA
+2ZZN,D,False,RNA (71-MER)
+5J7L,DB,False,5S rRNA
+5VCI,A,True,RNA (5'-R(*CP*UP*GP*CP*UP*GP*GP*CP*UP*AP*AP*GP*GP*CP*CP*CP*GP*AP*AP*AP*GP*G)-3')
+6CB3,B,True,RNA (99-MER)
+359D,B,False,RNA HAMMERHEAD RIBOZYME
+1QTQ,B,False,RNA (TRNA GLN II )
+3D0U,A,True,Lysine Riboswitch RNA
+4MGN,A,False,glyQS T box riboswitch
+4XWF,A,False,pfl RNA
+6P2H,A,False,RNA (69-MER)
+6U8D,A,True,JIIIabc RNA (68-MER)
+3NDB,M,True,SRP RNA
+1J2B,C,False,tRNA(Val)
+3AKZ,E,False,tRNAGln
+4ILL,R,False,RNA (5'-R(*GP*CP*UP*AP*AP*UP*CP*UP*AP*CP*UP*AP*UP*AP*GP*AP*AP*UP*UP*GP*AP*AP*AP*G)-3')
+1ZBH,F,False,5'-R(*CP*CP*GP*GP*CP*UP*CP*UP*UP*UP*UP*CP*AP*GP*AP*GP*CP*CP*GP*G)-3'
+2QUS,A,False,Hammerhead ribozyme
+4WT8,C3,False,"A site tNA, E site tNA"
+4PR6,B,False,HDV RIBOZYME SELF-CLEAVED
+3NMU,E,True,RNA (34-MER)
+6YL5,I,False,"Chains: A,B,C,D,E,F,G,H,I,J,K,L"
+1XJR,A,True,s2m RNA
+6MSF,S,False,RNA (5'-R(*CP*AP*GP*UP*CP*AP*CP*UP*GP*G)-3')
+5D8H,A,False,23S ribosomal RNA
+6JQ5,A,True,RNA (82-MER)
+5T83,A,False,RNA (95-MER)
+6VMY,A,True,B. subtilis cobalamin riboswitch
+3R9X,C,False,RNA301
+6X5M,r,False,ggPAN RNA (39-MER)
+5DH6,A,False,hammerhead ribozyme
+1GID,B,True,P4-P6 RNA RIBOZYME DOMAIN
+5WTI,B,False,RNA (123-MER)
+2A43,A,False,RNA Pseudoknot
+2Y9H,H,False,5'-R(*UP*CP*CP*CP*CP*AP*CP*GP*CP*GP*UP*GP*UP*GP *GP*GP*DGP*AP*UP)-3'
+4WSB,V,False,Influenza A polymerase vRNA promoter 5' end
+4QIL,C,False,5'-R(*CP*UP*CP*CP*CP*UP*UP*CP*UP*GP*UP*GP*AP*AP*GP*GP*GP*GP*A)-3'
+2ZY6,A,False,phenylalanyl transfer RNA
+3ZGZ,B,False,TRNA-LEU UAA ISOACCEPTOR
+7KGA,B,False,RNA (90-MER)
+6D3P,A,False,RNA (45-MER)
+1RLG,D,True,25-MER
+5CCB,N,False,tRNA3Lys
+4RMO,B,False,RNA (45-MER)
+6CZR,1a,True,16S Ribosomal RNA
+5TBW,AS,True,5S ribosomal RNA
+6DME,A,True,ppGpp Riboswitch
+4KZD,R,False,RNA (84-MER)
+1S03,B,False,47-MER
+361D,B,False,RNA (5'-R(*CP*UP*GP*GP*GP*CP*GP*GP*GP*CP*GP*AP*CP*CP*GP*CP*C P*UP*GP*G)-3')
+3E5C,A,True,SMK box (SAM-III) Riboswitch
+5D5L,A,True,PreQ1-II riboswitch
+4KR9,X,False,RNA (39-MER)
+7MDL,E,True,RNA (90-MER)
+5VSU,I,True,Saccharomyces cerevisiae strain T8 chromosome XII sequence
+7QR8,A,True,PTPRC sgRNA
+5U30,B,False,sgRNA
+7ENI,B,True,sgRNA (74-MER)
+5AOX,C,False,ALU JO CONSENSUS RNA
+6N2V,A,True,X. oryzae Mn riboswitch optimized construct
+2F8K,B,False,5'-R(*UP*AP*AP*UP*CP*UP*UP*UP*GP*AP*CP*AP*GP*AP*UP*U)-3'
+3LA5,A,False,Adenosine RIboswitch
+4LGT,E,False,stem-loop of 23S rRNA
+2R8S,R,True,P4-P6 RNA RIBOZYME DOMAIN
+6UFG,B,False,RNA (77-MER)
+8X5V,B,True,RNA (110-mer)
+8DP3,R,False,RNA (90-MER)
+2IZN,R,False,5'-R(*AP*CP*AP*UP*CP*GP*CP*GP*AP*UP *UP*AP*CP*GP*GP*AP*UP*GP*U)-3'
+6ORD,QY,False,A-site tRNAAla(GGC) U32-A38
+6CFJ,1x,False,P-site tRNA
+3TS2,U,False,RNA (5'-R(*GP*GP*GP*GP*UP*CP*UP*AP*UP*GP*AP*UP*AP*CP*CP*AP*CP*CP*CP*CP*GP*GP*AP*G)-3')
+2BH2,D,False,23S RIBOSOMAL RNA 1932-1968
+6TQB,B,False,RNA (5'-R(P*GP*GP*AP*AP*AP*UP*UP*AP*UP*AP*UP*UP*AP*AP*UP*UP*UP*CP*C)-3')
+4V7M,AY,False,tRNA-Gln
+6AAY,B,False,RNA (52-MER)
+6M0X,B,False,RNA (71-MER)
+3FOZ,D,False,tRNA(Phe)
+6UFM,A,False,RNA (77-MER)
+5ID6,G,False,RNA (5'-R(P*AP*AP*UP*UP*UP*CP*UP*AP*CP*UP*AP*AP*GP*UP*GP*UP*AP*GP*AP*UP*C)-3')
+2Z75,B,True,glmS ribozyme RNA
+6AAX,B,False,RNA (28-mer)
+4V9F,0,True,23S Ribosomal RNA
+3G9C,Q,True,GLMS RIBOZYME
+8S95,C,False,"Lysine tRNA scaffold,Poliovirus cloverleaf RNA"
+1KH6,A,True,JIIIabc
+4V8N,CV,False,E-SITE TRNA ILE2 AGMATIDINE OR P-SITE TRNA ILE2 AGMATIDINE
+1U1Y,R,False,5'-R(*CP*CP*GP*GP*(2PR)P*GP*GP*AP*UP*CP*AP*CP*CP*AP*CP*GP*G)-3'
+4QLM,A,False,RNA (108-MER)
+4ZT0,D,True,single-guide RNA
+3TRZ,U,False,RNA (5'-R(*GP*GP*GP*CP*AP*GP*GP*GP*AP*UP*UP*UP*UP*GP*CP*CP*CP*GP*GP*AP*G)-3')
+6JDV,B,True,sgRNA
+6FQ3,B,False,RNA (5'-R(*GP*GP*AP*GP*UP*CP*CP*AP*AP*CP*UP*CP*C)-3')
+5Y85,D,False,DNA/RNA (50-MER)
+6GSL,3L,False,tRNAArg
+7U2I,1w,False,A-site Aminoacyl-tRNA Gly-NH-tRNAgly
+5B63,D,False,tRNA-Arg
+6WZR,A,False,Fusibacterium ulcerans ZTP riboswitch
+5K36,L,False,RNA (17-MER)
+1A9N,Q,False,RNA (5'-R(*CP*CP*UP*GP*GP*UP*AP*UP*UP*GP*CP*AP*GP*UP*AP*CP*CP*UP*CP*CP*AP*GP* GP*U)-3')
+4TUW,C,False,HISTONE MRNA 3' STEM LOOP
+1KUQ,B,False,16S RIBOSOMAL RNA FRAGMENT
+6F4G,C,False,U2-SL4
+2Y8W,B,False,5'-R(*UP*CP*CP*CP*CP*AP*CP*GP*CP*GP*UP*GP*UP*GP *GP*GP*DGP*AP*UP*G)-3'
+3OXE,A,True,domain II of glycine riboswitch
+4K27,U,True,Myotonic Dystrophy Type 2 RNA
+4UYK,R,False,SRP RNA
+4GCW,B,False,TRNA(THR)
+6IV9,B,False,crRNA (50-MER)
+4YAZ,R,True,RNA (84-MER)
+4V90,AV,False,RNA (77-MER)
+7EQJ,B,False,RNA (76-MER)
+5SWD,B,False,"Vibrio vulnificus strain 93U204 chromosome II, adenine riboswitch aptamer domain"
+5Y58,X,False,TLC1
+2DU3,D,False,tRNA
+8FZA,A,False,PreQ1 Riboswitch (30-MER)
+1Y26,X,False,Vibrio vulnificus A-riboswitch
+8HZL,B,True,RNA (84-MER)
+4V5A,CV,False,P-SITE RNA ASL-PHE
+8UO6,B,False,HIV-1 Rev Response Element Stem-Loop II with tRNA scaffold
+7DLZ,X,False,RNA (45-MER)
+2OEU,A,False,Hammerhead Ribozyme
+4XNR,X,False,Vibrio Vulnificus Adenine Riboswitch
+6CF2,G,False,RNA (35-MER)
+5XTM,B,True,RNA (47-MER)
+4WT8,D4,False,tRNA (76-MER)
+3RW6,H,True,constitutive transport element(CTE)of Mason-Pfizer monkey virus RNA
+4KJI,C,False,RsmZ-2
+7KKV,B,True,OLE* RNA
+5XTM,D,True,RNA (47-MER)
+3NVI,F,True,RNA (5'-R(*CP*UP*CP*UP*GP*AP*CP*CP*GP*AP*AP*AP*GP*GP*CP*GP*UP*GP*AP*UP*GP*AP*GP*C)-3')
+7JRR,A,False,RNA (50-MER)
+5BJO,E,False,RNA (36-MER)
+8C3A,1,True,25S
+3AL0,E,False,tRNAGln
+7JRT,A,False,RNA nano bracelet
+6XJQ,A,False,Self-alkylating ribozyme (58-MER)
+5X6B,P,False,tRNACys
+8DK7,C,False,RNA (34-MER)
+5FMZ,H,False,5'-R(*AP*GP*UP*AP*GP*UP*AP*AP*CP*AP*AP*GP)-3'
+1G1X,E,False,16S RIBOSOMAL RNA
+8T29,R,False,RNA (90-MER)
+3K0J,E,False,RNA (87-MER)
+8D29,C,False,RNA (34-MER)
+2QUW,B,False,"Hammerhead ribozyme, cleaved fragment"
+4PCJ,A,True,trCUG-3('5)
+5M0J,F,True,ASH1 E3 (28 nt-loop)
+4Z0C,C,False,DNA (5'-R(P*AP*CP*GP*GP*AP*AP*AP*GP*AP*CP*CP*CP*C)-3')
+3NKB,B,True,The hepatitis delta virus ribozyme
+8ITS,A,True,RNA (46-MER)
+8KAH,I,True,RNA (65-MER)
+1M5K,B,False,RNA HAIRPIN RIBOZYME
+2JLT,B,False,TAR
+1E8O,E,False,7SL RNA
+5V3F,A,False,RNA (31-MER)
+7MKY,A,True,RNA (66-MER)
+6AEG,A,True,RNA (95-MER)
+3SIU,F,False,U4atac snRNA
+1Y27,X,False,Bacillus subtilis xpt
+5WT1,C,False,RNA (76-MER)
+2A64,A,False,ribonuclease P RNA
+6XKO,A,False,Class III PreQ1 riboswitch
+7VTI,B,False,crRNA
+7D81,A,False,832GAAA (50-MER)
+6AJK,B,False,RNA (28-MER)
+5X2G,B,True,sgRNA
+4ILM,C,False,RNA (5'-R(*GP*CP*UP*AP*AP*UP*CP*UP*AP*CP*UP*AP*UP*AP*GP*A)-3')
+5O7H,A,True,crRNA
+6LAX,A,True,RNA (55-MER)
+7QQX,A,True,FANCF sgRNA
+3KTW,C,True,SRP RNA
+5M0H,A,True,ASH1 E3 (42 nt-TL/TLR)
+3CUL,C,True,RNA (92-MER)
+1Q96,A,True,sarcin/ricin 28S rRNA
+4V50,CW,False,PHE TRNA (UNMODIFIED BASES)
+8F4O,B,False,TPP riboswitch aptamer domain
+4WSM,1K,False,tRNA-Leu
+6C63,A,False,RNA (36-MER)
+1HMH,E,False,HAMMERHEAD RIBOZYME-RNA STRAND
+4R4V,A,True,VS ribozyme RNA
+4QJD,D,False,Twister RNA sequence
+6SY6,D,False,RNA (36-MER)
+4LFB,A,True,16S rRNA
+7VYX,C,False,sgRNA
+8GXB,A,False,NAD+ II riboswitch
+5VJ9,C,False,RNA (5'-R(*GP*CP*GP*GP*GP*GP*AP*CP*GP*AP*CP*CP*CP*UP*GP*C)-3')
+4QEI,C,False,tRNA-Gly-CCC-2-2
+3TUP,T,False,Thermus thermophilus tRNAPhe
+1JID,B,False,HELIX 6 OF HUMAN SRP RNA
+5NFV,B,False,pre-crRNA
+4PKD,V,False,U1 snRNA stem-loops 1 and 2 (55-MER)
+8D28,B,True,RNA (33-MER)
+2ZUE,B,False,tRNA-Arg
+4WSM,3L,False,tRNA-Leu
+4PMI,A,False,Rev-Response-Element RNA
+5MSF,R,False,5'-R(*CP*CP*GP*GP*AP*GP*GP*AP*UP*CP*AP*CP*CP*AP*CP*GP*GP*G)-3'
+5TBW,1,True,25S ribosomal RNA
+2D6F,F,False,tRNA
+3D2V,A,False,TPP-specific riboswitch
+2DER,D,False,tRNA
+4GXY,A,False,Adenosylcobalamin riboswitch
+4OJI,A,False,RNA (52-MER)
+7KGA,A,False,RNA (90-MER)
+1NBS,B,True,RIBONUCLEASE P RNA
+8H1B,C,False,RNA (5'-R(*AP*CP*GP*GP*AP*CP*UP*UP*UP*GP*AP*CP*UP*CP*CP*GP*U)-3')
+1J1U,B,False,tRNA(Tyr)
+5FJC,A,True,SAM-I RIBOSWITCH
+6DN2,Y,False,RNA (56-MER)
+1S03,A,False,47-MER
+3SNP,D,False,ferritin H IRE RNA
+361D,A,False,RNA (5'-R(*CP*UP*GP*GP*GP*CP*GP*GP*GP*CP*GP*AP*CP*CP*GP*CP*C P*UP*GP*G)-3')
+5AXM,P,False,RNA (75-MER)
+8H0S,Y,False,RNA (5'-R(*AP*CP*GP*GP*AP*CP*UP*UP*UP*GP*AP*CP*UP*CP*CP*GP*U)-3')
+2HW8,B,False,36-MER
+8U5Z,A,False,Mango II variant
+8V1I,B,False,mascRNA
+4Z7L,I,False,RNA (5'-R(*GP*CP*AP*AP*AP*AP*UP*AP*AP*CP*AP*AP*GP*C)-3')
+8VTW,1A,True,23S Ribosomal RNA
+4QI2,G,False,RNA (5'-R(*AP*CP*AP*UP*GP*UP*UP*UP*UP*CP*UP*GP*UP*GP*AP*AP*AP*AP*CP*GP*GP*AP*G)-3')
+7D8O,B,False,Antitoxin RNA
+5C45,X,False,FMN Riboswitch
+3SKL,B,False,RNA (66-MER)
+1MZP,B,True,fragment of 23S rRNA
+1EC6,D,False,20-MER RNA HAIRPIN
+5KK5,B,False,RNA (40-MER)
+2BTE,B,True,TRNALEU TRANSCRIPT WITH ANTICODON CAG
+7D3J,B,False,RNA (43-MER)
+3SKI,A,False,RNA (68-MER)
+4V87,BB,False,TRNA-LEU
+4L8H,R,False,RNA operator hairpin
+3AMU,B,False,RNA (78-MER)
+6CK5,A,False,PRPP riboswitch
+4RGE,C,False,env22 twister ribozyme
+5U3G,B,True,ykkC riboswitch
+4RUM,A,True,NiCo riboswitch RNA
+5M3H,V,False,RNA 5'-pAGUAGUAACAAGAGGG
+6JXM,B,False,RNA (97-mer)
+7QR4,B,False,RNA CPEB3 ribozyme
+8G9Z,E,True,RNA (90-MER)
+7REX,A,False,RNA (34-MER)
+5F5H,D,False,RNA (5'-R(P*CP*CP*AP*CP*AP*CP*CP*GP*UP*UP*CP*UP*AP*GP*GP*UP*GP*CP*UP*GP*G)-3')
+4WF9,X,True,23S ribosomal RNA
+3RKF,C,False,Guanine riboswitch
+6R47,A,False,RNA (50-MER)
+4V84,AV,False,RNA (34-MER)
+5F9F,F,True,RNA (5'-R(*GP*AP*AP*UP*AP*UP*AP*AP*UP*AP*GP*UP*GP*AP*UP*AP*UP*UP*AP*UP*AP*UP*UP*C)-3')
+4QOZ,A,False,histone mRNA stem-loop
+4Z31,E,False,RNA (5'-R(*A)-D(P*UP*GP*UP*UP*CP*UP*GP*UP*GP*AP*AP*CP*AP*C)-3')
+7QQP,A,True,AAVS1 sgRNA
+8K0K,J,False,RNA (60-MER)
+4Y1M,B,True,E. coli yybP-ykoY riboswitch
+4MGN,B,False,tRNA-glycine
+5UZ6,A,True,RNA (25-MER)
+2W2H,R,False,5'-R(*GP*CP*UP*CP*AP*GP*AP*UP*CP*UP *GP*CP*GP*GP*UP*CP*UP*GP*AP*GP*C)-3'
+8VU0,C,True,RNA (76-MER)
+8J72,C,False,lncRNA Trincr1
+4JXZ,B,False,RNA (71-MER)
+8VM8,R,False,RNA (93-MER)
+5HR7,D,False,tRNA Glu
+8UO6,A,False,HIV-1 Rev Response Element Stem-Loop II with tRNA scaffold
+6ASO,I,False,Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_9 chromosome XII sequence
+6SVS,A,False,RNA (79-mer)
+6DLR,A,False,PRPP Riboswitch
+7D7W,A,True,18GAAA (52-MER)
+5NDI,B,False,RNA (5'-R(*UP*UP*UP*GP*CP*AP*GP*GP*AP*CP*GP*AP*CP*CP*UP*GP*(CBV)P*AP*AP*A)-3')
+4LX6,A,False,Mutated adenine riboswitch aptamer
+6DTD,C,False,RNA (37-MER)
+7L0Z,G,False,RNA (69-MER)
+6UFJ,C,False,RNA (50-MER)
+3EPH,E,False,tRNA
+6CYT,N,False,RNA (5'-R(P*AP*UP*CP*UP*GP*AP*GP*CP*CP*UP*GP*GP*GP*AP*GP*CP*U)-3')
+7PMM,D,False,RNA (45mer) containing HP92 of the 23S rRNA
+6DN2,X,False,RNA RIBOSWITCH
+5BTM,A,True,RNA (55-mer)
+5E6M,C,False,tRNA(Gly)
+8HNT,B,False,sgRNA
+4V9I,AY,False,A-SITE tRNA
+6FQL,B,False,RNA (5'-R(*UP*GP*CP*AP*UP*UP*UP*AP*AP*UP*GP*CP*A)-3')
+3SN2,B,False,transferrin receptor iron regulatory element B RNA
+3KFU,L,False,tRNA-Asn
+7RGU,F,False,Modified SL3 of RocR
+4ENC,A,True,Fluoride riboswitch
+3TS2,V,False,RNA (5'-R(*GP*GP*GP*GP*UP*CP*UP*AP*UP*GP*AP*UP*AP*CP*CP*AP*CP*CP*CP*CP*GP*GP*AP*G)-3')
+6DB9,R,False,RNA (60-MER)
+3Q3Z,V,False,c-di-GMP-II riboswitch
+6LT7,C,False,50-mer RNA
+3V7E,C,True,SAM-I riboswitch aptamer with an engineered helix P3
+6E8S,A,False,iMango-III aptamer
+7Z42,V,False,RNA (5'-R(P*AP*GP*UP*AP*GP*UP*AP*AP*CP*AP*AP*GP*A)-3')
+8UIW,N,False,yjdF RNA (R. gauvreauii)
+5KTJ,A,False,Pistol (50-MER)
+5XH7,B,False,crRNA
+2JLT,A,False,R06
+4PRF,B,False,Hepatitis Delta virus ribozyme
+6F4H,B,False,U1-SL2
+5B2T,A,True,Guide RNA
+4AY2,C,False,5'-R-PPP(GP*GP*CP*GP*CP*GP*GP*CP*UP*UP*CP*GP*GP*CP *CP*GP*CP*GP*CP*C)-3'
+7TZS,X,False,RNA (80-MER)
+6D12,C,False,human 7SK RNA stem-loop 4
+1ET4,A,False,"RNA APTAMER, 35-MER"
+6F4H,D,False,U1-SL2
+7E8O,X,False,histidine pre-tRNA
+4X4V,B,False,Human MenBeta minihelix ending in CCACC
+1P6V,B,False,45-MER
+1MMS,C,False,23S RIBOSOMAL RNA
+4C9D,D,False,R3 REPEAT RNA CLEAVAGE PRODUCT
+6JQ6,U,False,RNA (81-MER)
+4FEN,B,False,A24U/U25A/A46G mutant of the B. subtilis xpt-pbuX guanine riboswitch aptamer domain
+4Z7K,C,False,RNA/DNA Hybrid (31-MER)
+4WFL,A,True,RNA
+5C45,Y,False,FMN Riboswitch
+4V9K,AW,False,transfer RNA
+6LTU,B,False,RNA (56-mer)
+6QN3,B,False,RNA (51-MER)
+4YYE,C,False,tRNA
+3MOJ,A,True,RNA (69-MER)
+8UTG,B,False,RNA (5'-R(*UP*AP*UP*GP*GP*AP*AP*GP*AP*GP*GP*CP*GP*GP*UP*UP*GP*GP*UP*AP*U)-3')
+3HHN,E,False,"Class I ligase ribozyme, self-ligation product"
+1G1X,J,False,16S RIBOSOMAL RNA
+1G1X,I,True,16S RIBOSOMAL RNA
+1ZCI,B,False,5'-R(*CP*(5BU)P*UP*GP*CP*UP*GP*AP*AP*GP*UP*GP*CP*AP*CP*AP*CP*AP*GP*CP*AP*AP*G)-3'
+6YML,A,False,"Chains: A,C"
+6N5P,A,False,RNA (127-MER)
+2CSX,C,False,RNA (75-MER)
+8JOZ,B,True,tRNA Ser (88-MER)
+8EYU,A,False,RNA (49-MER)
+3IGI,A,True,Group IIC intron
+4FRG,B,True,cobalamin riboswitch aptamer domain
+1N78,C,False,tRNA(Glu)
+7OZQ,H,True,RNA
+7WIE,V,True,RNA (50-MER)
+5WLH,B,False,pre-crRNA
+2XD0,W,False,TOXI
+3AM1,B,True,ASL-truncated tRNA
+4C4W,H,False,TSKT-23
+5XUZ,B,False,crRNA
+4WF9,Y,False,5S ribosomal RNA
+8VTW,1B,True,5S Ribosomal RNA
+8HZE,B,True,RNA (36-MER)
+6ZDP,B,False,Chains: B
+2Y8Y,B,False,5'-R(*UP*CP*CP*CP*CP*AP*CP*GP*CP*GP*UP*GP*UP*GP *GP*GP*DGP*AP*U)-3'
+2ZNI,C,False,bacterial tRNA
+4NLF,A,True,23S ribosomal RNA Sarcin Ricin Loop
+5BTP,B,False,RNA (62-MER)
+8VM9,R,False,RNA (85-MER)
+1G1X,D,True,16S RIBOSOMAL RNA
+6NWY,QV,False,E-site tRNA-Pro
+5DDO,B,True,L-glutamine riboswitch (58-MER)
+5NWQ,A,False,Guanidine III riboswitch
+8FZA,B,False,PreQ1 Riboswitch (30-MER)
+7YSE,E,False,RNA (76-MER)
+7ELQ,A,True,NMT1_Mn (46-MER)
+4P5J,A,False,Turnip yellow mosaic virus mRNA for the coat protein
+5Y7M,D,True,RNA (52-MER)
+3IVN,A,False,A-riboswitch
+5J7L,AA,True,16S rRNA
+5W1H,B,False,mature crRNA
+6MWN,B,False,HAV dV RNA (92-MER)
+4V8Q,BY,False,TMRNA DELA
+3IWN,A,True,C-di-GMP riboswitch
+6QCW,V,False,RNA (5'-R(P*AP*GP*UP*AP*GP*UP*AP*AP*CP*AP*AP*GP*AP*G)-3')
+3P22,A,True,Core ENE hairpin from KSHV PAN RNA
+4PQV,A,True,XRN1-resistant flaviviral RNA
+4FRN,B,False,Cobalamin riboswitch aptamer domain
+8VMA,C,False,RNA (88-MER)
+4U7U,L,False,crRNA
+3F2X,X,False,FMN riboswitch
+4RDX,C,False,tRNA(his)
+3OVB,C,False,RNA (35-MER)
+3R4F,A,False,pRNA
+4PLX,A,True,Core ENE hairpin and A-rich tract from MALAT1
+8JY0,B,False,RhoBAST
+5TPY,A,True,RNA (71-MER)
+7KI3,C,False,HCV genotype 1a miR-122 site-1
+7MLX,R,False,RNA (65-MER)
+3WFS,A,False,RNA (74-MER)
+1L9A,B,True,signal recognition particle RNA S domain
+387D,A,False,RNA Pseudoknot
+5UD5,C,False,RNA (70-MER)
+7KJT,A,False,RNA (70-MER)
+4V9F,9,True,5S Ribosomal RNA
+4TUE,QV,False,P-site tRNA-fMet
+6JOO,B,True,Guide RNA
+6GSK,3L,False,tRNAThr
+7JRS,B,False,RNA 3D nanocage
+6UFG,A,True,RNA (166-MER)
+3HJW,D,False,RNA (58-MER)
+2OZB,C,False,RNA comprising the 5' Stem-Loop RNA of  U4snRNA
+7QR3,C,False,chimpanzee CPEB3 ribozyme
+4C7O,E,False,SRP RNA
+4M4O,B,False,RNA (59-MER)
+7MLW,F,False,Guanidine-I riboswitch
+4AL5,B,True,5'-R(*UP*UP*CP*AP*CP*UP*GP*CP*CP*GP*UP*AP*UP*AP *GP*GP*CP*AP*GP*C)-3'
+7K16,P,True,RNA (51-MER)
+4V88,A6,True,18S rRNA
+1MJI,D,False,5S rRNA fragment
+9BUN,A,False,RNA (48-MER)
+4BW0,A,True,HMKT-7
+5T16,H,False,RNA substrate analog
+7MRL,A,True,tRNA Lys3
+7OS0,F,False,crRNA
